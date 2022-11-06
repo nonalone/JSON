@@ -7,9 +7,9 @@
     "Priority":	"ASAP",
     "Severity":	"Trivial",
     "Environment":"WIndows 10(x64) Chrome Версия 104.0.5112.81",
-    "STR":{
+    "STR":[
           "1. Зайти на сайт test.test",
-          "2. Нажать кнопку ""Забыли пароль"" в верхнем правом углу."},
+          "2. Нажать кнопку ""Забыли пароль"" в верхнем правом углу."],
     "Actual result":"Рядом с Регистрация отсутствует кнопка Войти",
     "Expected result":"Вместо Забыли пароль? должна быть кнопка Войти",
     "Attachment":"https://drive.google.com/file/d/19FYYMDAiaBguMBKHVOpBb8DftYIk4f80/view?usp=sharing"
